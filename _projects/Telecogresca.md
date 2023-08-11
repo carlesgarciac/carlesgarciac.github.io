@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Telecogresca
+description: Music Festival
+img: assets/img/12.jpg
+importance: 2
+redirect: https://telecogresca.com
+category: Volunteering
+related_publications: telecogresca
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Associacio de Joves de Sant Esteve
+description: Local youth and cultural club
+img: assets/img/12.jpg
+importance: 3
+category: Volunteering
 ---
 
 Every project has a beautiful feature showcase page.

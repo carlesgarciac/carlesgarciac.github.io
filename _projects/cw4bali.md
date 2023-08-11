@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: CW4Bali
+description: Clean Water for Bali
+img: assets/img/7.jpg
+importance: 3
+category: Volunteering
 ---
 
 Every project has a beautiful feature showcase page.
