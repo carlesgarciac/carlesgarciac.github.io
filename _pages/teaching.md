@@ -18,11 +18,26 @@ nav_order: 2
 <li><H3>Teaching Assistance</H3></li>
 <ul>
     <li><H5><a href='https://www101.dcu.ie/registry/module_contents_no_mod.php?function=2&subcode=EE202'>Embedded Systems [EE202] (2021/2022)</a></H5></li>
-    <strong>Module Co-ordinator</strong>: Robert Sadleir
+    <strong>Module Co-ordinator</strong>: Dr. Robert Sadleir
     <li><H5><a href='https://www101.dcu.ie/registry/module_contents_archive_years.php?function=2&subcode=EE303'>Mobile Robotics [EE303] (2019-2023)</a></H5></li>
-    <strong>Module Co-ordinator</strong>: Kevin McGuinness
+    <strong>Module Co-ordinator</strong>: Dr. Kevin McGuinness
     <li><H5><a href='https://www101.dcu.ie/registry/module_contents_no_mod.php?function=2&subcode=EE324'>Algorithms for Engineers [EE324] (2020/2021)</a></H5></li>
-    <strong>Module Co-ordinator</strong>: Conor Mcardle
+    <strong>Module Co-ordinator</strong>: Dr. Conor Mcardle
 </ul>
 </ul>
+
+<H1> University College Dublin (UCD)</H1>
+<H2> School of Medicine</H2>
+<ul>
+<li><H3> Master's Thesis Co-supervision </H3></li>
+<ul>
+<li><H5><strong>Student</strong>: James Callanan </H5></li>
+<strong>Thesis supervisor</strong>: Dr. Karhleen Curran <br>
+Work resulted in publication:
+<div class="publications">
+{% bibliography -f imvip-james  %}
+
+
+
+
 
