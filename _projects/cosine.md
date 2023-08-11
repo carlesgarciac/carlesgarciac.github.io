@@ -2,7 +2,8 @@
 layout: page
 title: Cosine
 description: Cooperation and Sustainability on ICT in Nepal
-img: assets/img/3.jpg
+img: assets/img/nepal.jpeg
+redirect: https://ccd.upc.edu/ca/accions-al-sud/projectes-2017/o032
 importance: 1
 category: Volunteering
 ---

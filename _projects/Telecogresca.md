@@ -2,7 +2,7 @@
 layout: page
 title: Telecogresca
 description: Music Festival
-img: assets/img/12.jpg
+img: assets/img/logo-tgk.png
 importance: 2
 redirect: https://telecogresca.com
 category: Volunteering

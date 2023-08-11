@@ -2,8 +2,8 @@
 layout: page
 title: CW4Bali
 description: Clean Water for Bali
-img: assets/img/7.jpg
-importance: 3
+img: assets/img/bali.jpeg
+importance: 4
 category: Volunteering
 ---
 

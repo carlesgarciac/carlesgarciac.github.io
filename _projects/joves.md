@@ -2,7 +2,7 @@
 layout: page
 title: Associacio de Joves de Sant Esteve
 description: Local youth and cultural club
-img: assets/img/12.jpg
+img: assets/img/joveslogo.jpg
 importance: 3
 category: Volunteering
 ---

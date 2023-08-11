@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Lighting
-description: Music and theatral plays lightining engineering
-img: assets/img/12.jpg
+description: Music, theatrical plays and film making lighting engineering
+img: assets/img/raska.jpeg
 importance: 4
 category: Other Professional
 ---
