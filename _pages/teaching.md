@@ -36,6 +36,8 @@ nav_order: 2
 Work resulted in publication:
 <div class="publications">
 {% bibliography -f imvip-james  %}
+</div>
+</ul>
 
 
 
