@@ -8,6 +8,6 @@ children:
     - title: QR
       permalink: /qr/
     - title: divider
-    # - title: projects
-    #   permalink: /projects/
+    - title: LinkedIn QR
+      permalink: /linkedinqr/
 ---

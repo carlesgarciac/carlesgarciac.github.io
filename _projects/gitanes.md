@@ -3,6 +3,7 @@ layout: page
 title: Cultural Society of Sant Esteve
 description: Local dance and culture society
 img: assets/img/gitanes.jpeg
+redirect: http://gitanesdesantesteve.cat/
 importance: 2
 category: Volunteering
 ---

@@ -4,6 +4,7 @@ title: CW4Bali
 description: Clean Water for Bali
 img: assets/img/bali.jpeg
 importance: 4
+redirect: https://www.facebook.com/balicleanwater/
 category: Volunteering
 ---
 

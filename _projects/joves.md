@@ -4,6 +4,7 @@ title: Associacio de Joves de Sant Esteve
 description: Local youth and cultural club
 img: assets/img/joveslogo.jpg
 importance: 3
+redirect: https://www.santestevedepalautordera.cat/el-municipi/guia-del-municipi/entitats-i-associacions/associacio-de-joves-de-sant-esteve.html
 category: Volunteering
 ---
 

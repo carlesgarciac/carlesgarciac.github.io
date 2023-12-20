@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>N210 Glasnevin Campus</p>
-    <p>Dublin City University </p>
-    <p>Dublin, Ireland</p>
+  # address: >
+  #   <p>N210 Glasnevin Campus</p>
+  #   <p>Dublin City University </p>
+  #   <p>Dublin, Ireland</p>
 
 # news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I was born in Santa Maria de Palautordera, a small town in Catalonia. While my passion is being outdoors doing sports such as trail running, rock climbing, or hiking, I enjoy designing tools that can help people, from the most straightforward script to a complex model. In the past, I have worked as a waiter, lighting engineer and research assistant; I was also involved in local cultural societies and teaching at the university. Now I am focused on my research on cardiac MRI analysis while thrilled about what could go next.
+I originate from Santa Maria de Palautordera, a quaint town in Catalonia, where my love for outdoor pursuits like trail running, rock climbing, and hiking takes precedence. Alongside my passion for sports, I find joy in crafting tools, ranging from simple scripts to intricate models, aimed at aiding people. My diverse professional journey includes roles as a waiter, lighting engineer, and research assistant, coupled with active involvement in local cultural societies and university teaching.
 
-At <a href='https://www.upc.edu/'>Universitat Politecnica de Catalunya (UPC)</a>, I coursed my studies in Telecommunication Engineering, doing a major in signal processing and a minor in image processing. I did my Bachelor's thesis at <a href='https://www.auckland.ac.nz/en.html/'>University of Auckland (UoA)</a> in cardiac image analysis under the supervision of Alistair Young and Pau Medrano. Upon my return from New Zealand, I started my Master's studies in Advanced Telecommunication Technologies, also at UPC, where I focused on advanced signal processing and data analysis. My Master's thesis also consisted of cardiac image analysis; this time, Xavier Giró and Kevin McGuinness supervised it.
+I pursued my Telecommunication Engineering studies at the <a href='https://www.upc.edu/'>Universitat Politecnica de Catalunya (UPC)</a>, specializing in signal processing and image processing. For my Bachelor's thesis at the <a href='https://www.auckland.ac.nz/en.html/'>University of Auckland (UoA)</a>, I delved into cardiac image analysis under the guidance of Alistair Young and Pau Medrano. Returning from New Zealand, my focus shifted to Advanced Telecommunication Technologies for my Master's studies at UPC, emphasizing advanced signal processing and data analysis. Once again, I ventured into cardiac image analysis for my Master's thesis, supervised by Xavier Giró and Kevin McGuinness. 
 
-I am currently in the fourth year of my PhD, and the title of my thesis is "Generalizable Cardiac MRI Analysis with Deep Learning", under the supervision of Kevin McGuinness, Kathleen Curran and Noel O'Connor. In my research, I have explored multiple architectures, augmentation techniques and techniques to extend available data with synthetic data. The primary purpose of my research is to make cardiac MRI analysis tools reliable for all types of patients.
+I am pending of examination for my PhD at <a href='https://ml-labs.ie/'>ML-Labs</a> at <a href='https://dcu.ie/'>Dublin City University</a>, and the title of my thesis is "Generalizable Cardiac MRI Analysis with Deep Learning", under the supervision of Kevin McGuinness, Kathleen Curran and Noel O'Connor. The thesis explores advancements in cardiac magnetic resonance imaging (CMR) analysis using deep learning techniques. It encompasses diverse research areas, including the synthesis of synthetic CMR data for dataset balancing and the development of predictive models, contributing to the foundation of robust and efficient cardiac MR analysis.
 
 As part of my PhD studies at ML-Labs, I completed my internship at <a href='https://medisimaging.com/about/'>Medis Medical Imaging</a>, under the supervision of Pieter Kitslar and Hans Reiber. 
 

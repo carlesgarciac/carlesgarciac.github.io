@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /qr/
-title: QR
+title: Website QR
 description:
 nav: false
 nav_order: 
