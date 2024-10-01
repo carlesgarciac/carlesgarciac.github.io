@@ -41,3 +41,72 @@ preview={miccai2022-logo.png}
    month={9},
    preview={imvip-logo.gif}
 }
+
+@INPROCEEDINGS{carlesRegression,
+  author={Garcia-Cabrera, Carles and Curran, Kathleen M. and O'Connor, Noel E. and McGuinness, Kevin},
+  booktitle={2023 31st Irish Conference on Artificial Intelligence and Cognitive Science (AICS)}, 
+  title={Cardiac Magnetic Resonance Phase Detection Using Neural Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Training;Neural networks;Magnetic resonance;Transformers;Data models;Time measurement;Task analysis;Cardiac Imaging;Deep Learning;Phase Detection;Magnetic Resonance Imaging},
+  doi={10.1109/AICS60730.2023.10470772},
+  preview={aics2023.png}
+  }
+
+@InProceedings{miccai-recon,
+author="Dietlmeier, Julia
+and Garcia-Cabrera, Carles
+and Hashmi, Anam
+and Curran, Kathleen M.
+and O'Connor, Noel E.",
+editor="Camara, Oscar
+and Puyol-Ant{\'o}n, Esther
+and Sermesant, Maxime
+and Suinesiaputra, Avan
+and Tao, Qian
+and Wang, Chengyan
+and Young, Alistair",
+title="Cardiac MRI Reconstruction from Undersampled K-Space Using Double-Stream IFFT and a Denoising GNA-UNET Pipeline",
+booktitle="Statistical Atlases and Computational Models of the Heart. Regular and CMRxRecon Challenge Papers",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="326--338",
+abstract="In this work, we approach the problem of cardiac Magnetic Resonance Imaging (MRI) image reconstruction from undersampled k-space. This is an inherently ill-posed problem leading to a variety of noise and aliasing artifacts if not appropriately addressed. We propose a two-step double-stream processing pipeline that first reconstructs a noisy sample from the undersampled k-space (frequency domain) using the inverse Fourier transform. Second, in the spatial domain we train a denoising GNA-UNET (enhanced by Group Normalization and Attention layers) on the noisy aliased and fully sampled image data using the Mean Square Error loss function. We achieve competitive results on the leaderboard and show that the algorithmic combination proposed is effective in high-quality MRI reconstruction from undersampled cardiac long-axis and short-axis complex k-space data.",
+isbn="978-3-031-52448-6",
+preview={miccai2023.png}
+}
+
+@article{lyu2024state,
+  title={The state-of-the-art in Cardiac MRI Reconstruction: Results of the CMRxRecon Challenge in MICCAI 2023},
+  author={Lyu, Jun and Qin, Chen and Wang, Shuo and Wang, Fanwen and Li, Yan and Wang, Zi and Guo, Kunyuan and Ouyang, Cheng and T{\"a}nzer, Michael and Liu, Meng and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2404},
+  year={2024},
+  preview={miccai2023.png}
+}
+
+@InProceedings{miua24,
+author="Garcia-Cabrera, Carles
+and S{\'a}nchez, Eric Arazo
+and Moreu, Enric
+and Curran, Kathleen M.
+and O'Connor, Noel E.
+and McGuinness, Kevin",
+editor="Yap, Moi Hoon
+and Kendrick, Connah
+and Behera, Ardhendu
+and Cootes, Timothy
+and Zwiggelaar, Reyer",
+title="Synthetic Balancing of Cardiac MRI Datasets",
+booktitle="Medical Image Understanding and Analysis",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="353--365",
+abstract="Possessing a balanced dataset to train the segmentation models used in clinical products is hugely important to enhance the performance in any given subset of patients. Due to demographics and uneven distribution of conditions of the subjects, this is not usually the case. In this work, we propose a novel method that synthetically balances a training dataset by applying deformations to an atlas. In particular, we focus on modelling two diseases that have distinct heart morphologies. Once the atlas is processed, we obtain different slice cuts from it and apply style transfer to make it appear as a real short-axis MRI scan. We then add those synthetic scans to our training set for the segmentation network. Our experiment compares the performance of the distinct trained models in a test set. Additionally, we also present the results on subsets of the test set representing the modelled pathologies. We found that using synthetic scans to balance the dataset resulted in up to a 0.05 increase in the DICE score. Our findings motivate further research on balancing cardiac MRI datasets by using atlas deformation.",
+isbn="978-3-031-66958-3",
+preview={miua2024.png}
+}
