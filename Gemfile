@@ -29,3 +29,7 @@ end
 # export PATH="/usr/local/opt/ruby/bin:$PATH"
 # bundle install
 # bundle exec jekyll serve
+
+# commit
+# push
+# bin/deploy --user

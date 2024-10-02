@@ -3,7 +3,7 @@
     "name": "Carles Garcia Cabrera",
     "label": "Researcher",
     "image": "",
-    "email": "carles.garciacabrera6@mail.dcu.ie",
+    "email": "carles.garcia-cabrera@ucd.ie",
     "phone": "",
     "url": "https://linkedin.com/in/cgarciacabrera",
     "summary": "",
@@ -28,6 +28,18 @@
     ]
   },
   "work": [
+    {
+      "name": "Insight SFI Centre Data Analytics - SMASH-HCM",
+      "position": "Machine Learning Researcher",
+      "url": "https://smash-hcm.eu/",
+      "startDate": "2024/01",
+      "endDate": "",
+      "summary": "",
+      "image": "publication_preview/SMASH-HCM-Logo-RGB-horizontal-DARK-BG.svg",
+      "highlights": [
+        "Data Management", "Biomarker Discovery", "Cardiology", "Digital Twins"
+      ]
+    },
     {
       "name": "SFI Centre for Research Training in Machine Learning",
       "position": "PhD Researcher",
