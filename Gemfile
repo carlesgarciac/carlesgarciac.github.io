@@ -30,6 +30,7 @@ end
 # bundle install
 # bundle exec jekyll serve
 
+# add
 # commit
 # push
 # bin/deploy --user
