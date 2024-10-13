@@ -29,6 +29,14 @@ nav_order: 2
 <H1> University College Dublin (UCD)</H1>
 <H2> School of Medicine</H2>
 <ul>
+<li><H3> Lecturer </H3></li>
+<ul>
+<li><H5><a href='https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=RDGY41710'>AI For Medical Image Analysis (RDGY41710) (2023/2024)</a></H5></li>
+    Unsupervised and semi-supervised learning. Fine-tunning. Applications in Medical Imaging. <br>
+    <strong>Module Co-ordinator</strong>: Dr. Kathleen Curran
+</ul>
+</ul>
+<ul>
 <li><H3> Master's Thesis Co-supervision </H3></li>
 <ul>
 <li><H5><strong>Student</strong>: James Callanan </H5></li>
@@ -37,6 +45,7 @@ Work resulted in publication:
 <div class="publications">
 {% bibliography -f imvip-james  %}
 </div>
+</ul>
 </ul>
 
 
