@@ -9,8 +9,6 @@ category: Other Professional
 
 As a side gig, I specialize in lighting engineering, crafting dynamic visual environments for theatrical plays, the movie industry, and most prominently, live music concerts. My work focuses on using light to enhance storytelling, mood, and emotion, seamlessly blending technical precision with artistic creativity. Whether it’s creating atmospheric effects for stage performances, bringing cinematic scenes to life through careful lighting design, or elevating the energy of live music concerts with immersive lighting shows, I ensure that each project’s visual impact is unforgettable.
 
-Check
-
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -26,10 +24,10 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/raska2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/raska.jpg" title="Raska" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mirallas.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/raska.jpg" title="Videoclip" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
