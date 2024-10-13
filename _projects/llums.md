@@ -9,6 +9,8 @@ category: Other Professional
 
 As a side gig, I specialize in lighting engineering, crafting dynamic visual environments for theatrical plays, the movie industry, and most prominently, live music concerts. My work focuses on using light to enhance storytelling, mood, and emotion, seamlessly blending technical precision with artistic creativity. Whether it’s creating atmospheric effects for stage performances, bringing cinematic scenes to life through careful lighting design, or elevating the energy of live music concerts with immersive lighting shows, I ensure that each project’s visual impact is unforgettable.
 
+Check
+
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
